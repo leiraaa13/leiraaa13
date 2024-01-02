@@ -15,29 +15,29 @@ Feel free to call me Mariel or Riel
 
 ## Git Commands Cheat Sheet:
 - **git init**
-  ✨ Create an empty Git repository or reinitialize an existing one
-  🧩 Parameter: none
-  👉 Example: ![pic](git_init.png)
+  ✨ Create an empty Git repository or reinitialize an existing one  
+  🧩 Parameter: none  
+  👉 Example: ![pic](git_init.png)  
 
 - **git clone**
-  ✨ Clone a repository into a new directory
-  🧩 Parameter: [url]
-  👉 Example: ![pic](git_clone.png)
+  ✨ Clone a repository into a new directory 
+  🧩 Parameter: [url]  
+  👉 Example: ![pic](git_clone.png)  
 
 - **git log**
-  ✨ Show the commit logs
-  🧩 Parameter: none
-  👉 Example: ![pic](git_log.png)
+  ✨ Show the commit logs  
+  🧩 Parameter: none  
+  👉 Example: ![pic](git_log.png)  
 
 - **git status**
-  ✨ Show the working tree status
-  🧩 Parameter: none
-  👉 Example: ![pic](git_status.png)
+  ✨ Show the working tree status  
+  🧩 Parameter: none  
+  👉 Example: ![pic](git_status.png)  
 
 - **git commit**
-  ✨ Record changes to the repository
-  🧩 Parameter: -m "[descriptive message]"
-  👉 Example: ![pic](git_commit.png)
+  ✨ Record changes to the repository  
+  🧩 Parameter: -m "[descriptive message]"  
+  👉 Example: ![pic](git_commit.png)  
 
 ##  Thanks for visiting my profile👋
 
