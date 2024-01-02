@@ -52,9 +52,10 @@ Feel free to call me Mariel or Riel
 
   **git add**   
   ✨ Add file contents to the index   
-  🧩 Parameter: File name
+  🧩 Parameter: File name   
   👉 Example:   
   ![pic](git_add.png)   
+  
 ##  Thanks for visiting my profile👋
 
 
