@@ -44,6 +44,11 @@ Feel free to call me Mariel or Riel
   👉 Example:       
   ![pic](git_commit.png)      
 
+- **git notes**   
+  ✨ Add or inspect object notes   
+  🧩 Parameter: add -m "[descriptive message]"   
+  👉 Example:   
+  ![pic](git_notes.png)   
 ##  Thanks for visiting my profile👋
 
 
