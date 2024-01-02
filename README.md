@@ -38,10 +38,10 @@ Feel free to call me Mariel or Riel
   👉 Example:  
   ![pic](git_status.png)    
 
-- **git commit**
-  ✨ Record changes to the repository    
+- **git commit**            
+  ✨ Record changes to the repository       
   🧩 Parameter: -m "[descriptive message]"    
-  👉 Example:   
+  👉 Example:       
   ![pic](git_commit.png)      
 
 ##  Thanks for visiting my profile👋
