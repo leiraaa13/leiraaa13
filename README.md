@@ -49,6 +49,12 @@ Feel free to call me Mariel or Riel
   🧩 Parameter: add -m "[descriptive message]"   
   👉 Example:   
   ![pic](git_notes.png)   
+
+  **git add**   
+  ✨ Add file contents to the index   
+  🧩 Parameter: File name
+  👉 Example:   
+  ![pic](git_add.png)   
 ##  Thanks for visiting my profile👋
 
 
